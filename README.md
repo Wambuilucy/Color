@@ -1,4 +1,4 @@
-# Background-Color
+# Color
 This an application which changes its background color once the button in the page is clicked.
 
 ## Features
